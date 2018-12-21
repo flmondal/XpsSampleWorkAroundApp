@@ -1,0 +1,5 @@
+﻿  Decryptor.cpp
+c:\users\flmondal\desktop\aip\extractxpsdocument\extractxps\extractxps\decryptor.cpp(114): warning C4101: 'hr': unreferenced local variable
+c:\users\flmondal\desktop\aip\extractxpsdocument\extractxps\extractxps\decryptor.cpp(293): warning C4700: uninitialized local variable 'cbMyBlockSize' used
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ExtractXps.vcxproj -> C:\Users\flmondal\Desktop\AIP\ExtractXPSDocument\ExtractXps\Debug\ExtractXps.exe
